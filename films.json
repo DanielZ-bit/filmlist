@@ -1,0 +1,33 @@
+[
+  {
+    "name": "Seven Samurai",
+    "year": 1954,
+    "runtime":207,
+    "rating": "PG",
+    "ranking": 8.6,
+    "description": "Farmers from a village exploited by bandits hire a veteran samurai for protection, who gathers six other samurai to join him.",
+    "director": "Akira Kurosawa",
+    "actors": "Toshiro Mifune, Takashi Shimura, Keiko Tsushima"
+  },
+  {
+    "name": "Tokyo Story",
+    "year": 1953,
+    "runtime": 136,
+    "rating": "U",
+    "ranking": 8.1,
+    "description": "An old couple visit their children and grandchildren in the city, but receive little attention.",
+    "director": "Yasujir� Ozu",
+    "actors": "Chish� Ry�, Chieko Higashiyama, S� Yamamura"
+  }
+  ,
+  {
+    "name": "Ikiru",
+    "year": 1952,
+    "runtime": 143,
+    "rating": "PG",
+    "ranking": 8.3,
+    "description": "A bureaucrat tries to find meaning in his life after he discovers he has terminal cancer.",
+    "director": "Akira Kurosawa",
+    "actors": "Takashi Shimura, Nobuo Kaneko, Shin'ichi Himori"
+  }
+]
